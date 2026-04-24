@@ -1,7 +1,7 @@
-# MANTAPV3
+# MantapV3
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 - ***Script Auto Installer Multi All Port 443,80***
-- Untuk script nya belum di buat harap bersabar
+- ~*Untuk script nya belum di buat harap bersabar*~
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MANTAPV3" />
