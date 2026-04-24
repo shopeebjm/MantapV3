@@ -4,7 +4,7 @@
 - ~*Untuk script nya belum di buat harap bersabar*~
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MANTAPV3" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MantapV3" />
 </p>
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
@@ -60,7 +60,7 @@
 [![Hits](https://img.shields.io/badge/XRAY_SHADOWSOCKS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/shopeebjm/MantapV3)
 </h2>
 
-# Cara Install Script MANTAPV3
+# Cara Install Script MantapV3
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
 - HARAP DI BACA ,INI SCRIPT UNTUK MEMBUAT SERVER VPN /MEMASANG SERVER VPN
 
