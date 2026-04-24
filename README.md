@@ -11,9 +11,8 @@
 
 <h2 align="center">
 
-**vpn**
-</h2>
-
+**VPN**
+<h2 align="center">
 [![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
